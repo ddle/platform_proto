@@ -1,0 +1,17 @@
+/* CONTIKI PORT FOR ATMEGA1284P + RF12/22
+ * MESHPHONE PROJECT, 2011 LE DANG DUNG 
+ * 
+ * WHAT: 
+ * 1. Radio driver and MAC layer to use with radio driver
+ *    + conf
+ * - 
+ * WHERE:
+ * - Radio driver located in core/dev
+ * 
+ * HOW:
+ * - reuse platform/avr_raven, modify
+ * 
+ * PORTING PROCESS:
+ *   + 
+ */
+
